@@ -15,6 +15,7 @@ public class Home extends Fragment {
         rootview = inflater.inflate(R.layout.fragment_home, container, false);
         String test = "push text";
         String test2 = "Branch test";
+        String test6 = "Branch test merge";
         return rootview;
 
     }

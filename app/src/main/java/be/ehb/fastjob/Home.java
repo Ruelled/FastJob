@@ -14,6 +14,7 @@ public class Home extends Fragment {
                              Bundle savedInstanceState) {
         rootview = inflater.inflate(R.layout.fragment_home, container, false);
         String test = "push text";
+        String test2 = "Branch test";
         return rootview;
 
     }

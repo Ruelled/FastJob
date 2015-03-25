@@ -13,6 +13,7 @@ public class Home extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         rootview = inflater.inflate(R.layout.fragment_home, container, false);
+        String test = "push text";
         return rootview;
 
     }
